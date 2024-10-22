@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ispsum Below
+## Website Contents
 
-Text here with ispsum stuff
-Adding more text here
+1. index.html
